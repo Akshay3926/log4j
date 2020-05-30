@@ -1,0 +1,10 @@
+#for RollingFileAppender,HTmLLayout
+log4j.appender.rollingFile=org.apache.log4j.RollingFileAppender
+log4j.appender.rollingFile.File=AppLog.html
+log4j.appender.rollingFile.File=org.apache.log4j.HTMLLayout
+
+log4j.appender.rollingFile.MaxFileSize=10kb
+log4j.appender.rollingFile.MaxBackupIndex=3
+log4j.appender.rollingFile.append=true
+ 
+log4j.rootCategory=ALL, rollingFile

@@ -1,0 +1,5 @@
+#for console appender SimpleLayout(#indicates comment)
+log4j.rootLogger=ERROR,S
+log4j.appender.S=org.apache.log4j.ConsoleAppender
+log4j.appender.S.layout=org.apache.log4j.SimpleLayout
+

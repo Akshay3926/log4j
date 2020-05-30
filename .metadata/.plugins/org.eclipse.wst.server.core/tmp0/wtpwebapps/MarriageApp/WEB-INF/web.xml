@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>MarriageApp</display-name>
+  
+  <!-- Welcome file cfgs -->
+  <welcome-file-list>
+    <welcome-file>input.html</welcome-file>
+  </welcome-file-list>
+  <!-- Servlet Cfg -->
+  <servlet>
+     <servlet-name>marriage</servlet-name>
+     <servlet-class>com.nt.servlet.MarriageServlet</servlet-class>
+  </servlet>
+  <!-- servlet mapping cfg -->
+  <servlet-mapping>
+    <servlet-name>marriage</servlet-name>
+    <url-pattern>/marriageurl</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,9 @@
+#for File appender SimpleLayout(#indicates comment)
+
+log4j.rootLogger = DEBUG, S
+
+# Define the file appender
+log4j.appender.S=org.apache.log4j.FileAppender
+log4j.appender.S.File=AppLog.html
+log4j.appender.S.Append=true
+log4j.appender.S.layout=org.apache.log4j.HTMLLayout

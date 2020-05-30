@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SelectTest1-Log4J&apos; to &apos;SelectTest1-Log4J-HTMLFile&apos;" description="Rename resource &apos;SelectTest1-Log4J&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SelectTest1-Log4J" name="SelectTest1-Log4J-HTMLFile" stamp="1577637016124" updateReferences="true"/>
+</session>

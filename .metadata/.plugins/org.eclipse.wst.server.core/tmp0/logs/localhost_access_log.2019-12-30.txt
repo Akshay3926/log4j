@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Dec/2019:00:03:56 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:00:04:10 +0530] "GET /MarriageApp/marriageurl?pname=shri&page=25&gen=M&s1=Check+Marriage+Elgibility HTTP/1.1" 200 366
+127.0.0.1 - - [30/Dec/2019:00:10:18 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:00:10:31 +0530] "GET /MarriageApp/marriageurl?pname=shridhar&page=47&gen=F&s1=Check+Marriage+Elgibility HTTP/1.1" 200 384

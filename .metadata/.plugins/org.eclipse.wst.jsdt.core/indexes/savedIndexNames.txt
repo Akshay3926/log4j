@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Log4J\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+516266622.index
+1654899105.index
+1650758336.index
+2788983911.index
+3244668718.index
+629391874.index
+2775777634.index
